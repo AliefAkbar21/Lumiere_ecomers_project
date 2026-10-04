@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
+uploads/produk/*
+!uploads/produk/.gitkeep
+uploads/user/*
+!uploads/user/.gitkeep
